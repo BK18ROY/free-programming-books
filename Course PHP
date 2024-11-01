@@ -1,0 +1,13 @@
+
+PHP index to organize a syllabus and highlight essential points:
+
+Introduction to PHP: Basics, syntax, and installation.
+Data Types and Variables: String, integer, arrays.
+Control Structures: If, switch, loops.
+Functions: Custom functions, parameters, return values.
+Forms Handling: GET, POST methods.
+Database Integration: MySQL connection, CRUD.
+File Handling: Read, write, delete files.
+Sessions & Cookies: User authentication.
+Error Handling: Try-catch blocks, debugging.
+Security Practices: SQL injection, XSS prevention.
